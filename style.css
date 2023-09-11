@@ -1,0 +1,31 @@
+div {
+    padding: 15px;
+    
+}
+
+.row {
+
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    flex: 5;
+}
+
+.col {
+    background-color: cadetblue;
+    display: flex;
+    color: white;
+    flex: 1;
+}
+.col-2{
+    background-color: cadetblue;
+    display: flex;
+    color: white;
+    flex: 2;
+}
+.col-3{
+    background-color: cadetblue;
+    display: flex;
+    color: white;
+    flex: 3;
+}
